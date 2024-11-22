@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=" assets/banner.png">
 </p>
 
 
@@ -17,13 +17,12 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Planilhas Inteligentes
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar uma planilha inteligente
 
 <a href="https://github.com/alansumiya/prompts-recipe-to-create-a-ebook/blob/main/output/Capa%20Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
