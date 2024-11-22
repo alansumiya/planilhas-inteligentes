@@ -24,44 +24,33 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente
 
-<a href="https://github.com/alansumiya/prompts-recipe-to-create-a-ebook/blob/main/output/Capa%20Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/alansumiya/planilhas-inteligentes/blob/main/output/pratica%20excel.xlsx" title="View planilha now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Gemini](https://gemini.google.com) 
 - [Copilot](https://copilot.microsoft.com)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Excel](https://www.microsoft.com/en/microsoft-365/excel)
 
 ## 🧠 Prompts
-
-
-Gemini：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema java, o ebook é do nicho de programação e o subnicho é de java, o título deve ser épico e curto. Me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em java, listando as principais variáveis com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
 
 Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | gerar uma imagem de um programador meditando para obter o despertar de programar       |
+| título | criar uma imagem de um boneco 3d trabalhando com finanças e pensando com um balão em branco       |
 
 ## ✨ Features
 
-- Conteúdo gerado via Gemini
 - Imagens geradas via Copilot
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- planilha gerada durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de planilhas como excel, libreoffice.
 
 ## 👨‍💻 Beginner
 
